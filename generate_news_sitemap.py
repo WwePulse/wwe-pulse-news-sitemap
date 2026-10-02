@@ -5,7 +5,7 @@ from email.utils import parsedate_to_datetime
 from xml.sax.saxutils import escape
 
 FEED_URL = "https://wwepulsetoday.blogspot.com/feeds/posts/default?alt=rss"
-PUBLICATION_NAME = "WWE Pulse"
+PUBLICATION_NAME = "WWE Pulse Today"
 LANGUAGE = "en"
 
 with urllib.request.urlopen(FEED_URL) as response:
