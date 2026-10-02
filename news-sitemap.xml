@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/killer-kross-bray-wyatt-wyatt-sicks-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T22:31:46Z</news:publication_date>
+      <news:title>Killer Kross May Have Revealed a Missing Piece of Bray Wyatt’s WWE Plans (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/drew-mcintyre-wwe-return-smackdown-future-wwe-news.html</loc>
     <news:news>
       <news:publication>
