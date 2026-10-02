@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/la-knight-wwe-future-money-in-the-bank-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T01:04:18Z</news:publication_date>
+      <news:title>WWE May Have Made a Big Decision About LA Knight’s Future (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/aj-styles-wwe-creative-advice-talent-wwe-news.html</loc>
     <news:news>
       <news:publication>
