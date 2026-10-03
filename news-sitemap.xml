@@ -4,6 +4,42 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/the-rock-aew-tony-khan-wwe-reaction-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T13:09:35Z</news:publication_date>
+      <news:title>The Rock’s Latest Wrestling Comments Are Getting Attention Inside WWE (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/jevon-evans-smackdown-future-money-in-the-bank-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T13:00:20Z</news:publication_date>
+      <news:title>Je’Von Evans May Have Just Changed How WWE Fans See His Future (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/randy-orton-cody-rhodes-smackdown-money-in-the-bank-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T12:50:30Z</news:publication_date>
+      <news:title>Randy Orton Just Changed Everything for Cody Rhodes on SmackDown (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/killer-kross-bray-wyatt-wyatt-sicks-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -120,30 +156,6 @@
       </news:publication>
       <news:publication_date>2026-10-01T23:29:10Z</news:publication_date>
       <news:title>Booker T Reveals the One WWE Moment He Would Change Today</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/vince-mcmahon-wwe-exit-control-future-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T12:39:37Z</news:publication_date>
-      <news:title>Vince McMahon’s WWE Exit May Have Cost Him More Than Fans Realize</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/roman-reigns-money-in-the-bank-946-bloodline-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T12:15:55Z</news:publication_date>
-      <news:title>Roman Reigns’ Money in the Bank Situation Just Got Much More Dangerous</news:title>
     </news:news>
   </url>
 
