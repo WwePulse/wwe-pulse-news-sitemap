@@ -123,28 +123,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/wrestlemania-43-date-wwe-strategy-saudi-arabia-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T11:42:50Z</news:publication_date>
-      <news:title>WWE May Have a Bigger Reason for Staying Quiet About WrestleMania 43 (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/sheamus-post-wwe-future-career-move-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T11:14:40Z</news:publication_date>
-      <news:title>Sheamus May Be Closer to a Major Career Move Than Fans Realize (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
 </urlset>
