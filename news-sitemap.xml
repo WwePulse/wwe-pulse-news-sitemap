@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/chris-jericho-wwe-legacy-hall-of-fame-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T00:20:12Z</news:publication_date>
+      <news:title>Chris Jericho Just Gave an Unexpected Answer About His Place in WWE History (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/brie-bella-wwe-return-injury-update-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T20:17:26Z</news:publication_date>
+      <news:title>“Brie Bella’s Road Back to WWE Is Taking an Unexpected Turn (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/asuka-wwe-future-return-status-update-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -120,54 +144,6 @@
       </news:publication>
       <news:publication_date>2026-10-02T11:14:40Z</news:publication_date>
       <news:title>Sheamus May Be Closer to a Major Career Move Than Fans Realize (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/la-knight-wwe-future-money-in-the-bank-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T01:04:18Z</news:publication_date>
-      <news:title>WWE May Have Made a Big Decision About LA Knight’s Future (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/aj-styles-wwe-creative-advice-talent-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T23:56:48Z</news:publication_date>
-      <news:title>AJ Styles Has Blunt Advice for WWE Stars Unhappy With Creative (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/oba-femi-worlds-collide-rival-tease-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T23:38:37Z</news:publication_date>
-      <news:title>WWE May Have Just Teased Oba Femi’s Most Intriguing Rival Yet</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/booker-t-wrestlemania-19-triple-h-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T23:29:10Z</news:publication_date>
-      <news:title>Booker T Reveals the One WWE Moment He Would Change Today</news:title>
     </news:news>
   </url>
 
