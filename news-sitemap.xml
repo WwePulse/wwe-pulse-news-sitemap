@@ -4,6 +4,42 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-raw-tonight-preview-money-in-the-bank-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T13:14:16Z</news:publication_date>
+      <news:title>WWE Raw Tonight Could Change Everything Before Money in the Bank (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/aj-styles-retirement-return-avery-styles-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T12:51:24Z</news:publication_date>
+      <news:title>AJ Styles’ Retirement Suddenly Feels a Lot Less Final (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/matt-cardona-wwe-roster-success-outside-company-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T12:38:21Z</news:publication_date>
+      <news:title>Matt Cardona Just Made a Bold Claim About Today’s WWE Roster (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/wrestlemania-43-backup-plan-las-vegas-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -48,42 +84,6 @@
       </news:publication>
       <news:publication_date>2026-10-03T15:36:17Z</news:publication_date>
       <news:title>Asuka Just Gave WWE Fans the Update They Have Been Waiting For (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/the-rock-aew-tony-khan-wwe-reaction-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T13:09:35Z</news:publication_date>
-      <news:title>The Rock’s Latest Wrestling Comments Are Getting Attention Inside WWE (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/jevon-evans-smackdown-future-money-in-the-bank-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T13:00:20Z</news:publication_date>
-      <news:title>Je’Von Evans May Have Just Changed How WWE Fans See His Future (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/randy-orton-cody-rhodes-smackdown-money-in-the-bank-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T12:50:30Z</news:publication_date>
-      <news:title>Randy Orton Just Changed Everything for Cody Rhodes on SmackDown (WWE NEWS)</news:title>
     </news:news>
   </url>
 
