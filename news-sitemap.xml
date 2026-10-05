@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wrestlemania-43-backup-plan-las-vegas-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T12:26:52Z</news:publication_date>
+      <news:title>A Major WrestleMania 43 Backup Option May Already Be Off the Table (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/chris-jericho-wwe-legacy-hall-of-fame-wwe-news.html</loc>
     <news:news>
       <news:publication>
