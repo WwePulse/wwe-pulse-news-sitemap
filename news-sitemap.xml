@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/rezar-career-path-before-wwe-ufc-talks-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T22:49:37Z</news:publication_date>
+      <news:title>Rezar’s Career Almost Went in a Completely Different Direction</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/john-cena-vince-mcmahon-latest-comments-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T22:26:25Z</news:publication_date>
+      <news:title>John Cena’s Latest Vince McMahon Comments Are Turning Heads Again (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/john-cena-new-wwe-project-major-update-wwe-news.html</loc>
     <news:news>
       <news:publication>
