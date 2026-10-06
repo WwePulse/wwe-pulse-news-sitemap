@@ -4,6 +4,42 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/bloodline-next-move-wwe-raw-major-surprise-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T12:10:30Z</news:publication_date>
+      <news:title>WWE Just Dropped a Major Bloodline Surprise for Next Week’s Raw (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-winners-losers-week-biggest-momentum-shifts-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T11:50:19Z</news:publication_date>
+      <news:title>WWE’s Biggest Winners and Losers This Week May Surprise You (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/money-in-the-bank-womens-title-match-major-twist-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T11:39:54Z</news:publication_date>
+      <news:title>WWE Just Turned the Women’s World Title Picture Upside Down Before Money in the Bank (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/rezar-career-path-before-wwe-ufc-talks-wwe-news.html</loc>
     <news:news>
       <news:publication>
