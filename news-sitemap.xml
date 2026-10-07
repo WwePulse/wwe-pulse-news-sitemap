@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/joe-hendry-wwe-future-world-title-goal-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T13:19:33Z</news:publication_date>
+      <news:title>Joe Hendry Knows Exactly What He Must Fix Before Reaching WWE’s Top Level (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/oba-femi-bronson-reed-storytelling-missed-opportunity-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -120,42 +132,6 @@
       </news:publication>
       <news:publication_date>2026-10-05T17:04:41Z</news:publication_date>
       <news:title>WWE May Have Quietly Closed the Door on Keanu Carve (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-raw-tonight-preview-money-in-the-bank-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T13:14:16Z</news:publication_date>
-      <news:title>WWE Raw Tonight Could Change Everything Before Money in the Bank (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/aj-styles-retirement-return-avery-styles-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T12:51:24Z</news:publication_date>
-      <news:title>AJ Styles’ Retirement Suddenly Feels a Lot Less Final (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/matt-cardona-wwe-roster-success-outside-company-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T12:38:21Z</news:publication_date>
-      <news:title>Matt Cardona Just Made a Bold Claim About Today’s WWE Roster (WWE NEWS)</news:title>
     </news:news>
   </url>
 
