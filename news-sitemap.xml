@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/kevin-nash-modern-wrestling-main-event-problem-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T18:07:14Z</news:publication_date>
+      <news:title>Kevin Nash Just Explained What’s Starting to Push Him Away From WWE (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/necro-butcher-unexpected-wwe-legends-deal-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T17:57:27Z</news:publication_date>
+      <news:title>Necro Butcher Just Landed a WWE Deal Nobody Saw Coming (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-pac-tribute-backstage-story-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -132,18 +156,6 @@
       </news:publication>
       <news:publication_date>2026-10-05T21:26:14Z</news:publication_date>
       <news:title>John Cena Reveals New Details About His WWE Project — And the Concept Is Wild (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/big-cass-wwe-return-future-direction-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T18:07:56Z</news:publication_date>
-      <news:title>WWE May Have a Big Decision to Make About Big Cass (WWE NEWS TODAY)</news:title>
     </news:news>
   </url>
 
