@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/jeff-cannonball-wrestling-legacy-cody-rhodes-tribute-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:14:25Z</news:publication_date>
+      <news:title>A Special Cody Rhodes Gesture for Jeff Cannonball Is Being Remembered Across Wrestling</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/kairi-chris-jericho-cruise-aew-rumors-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T21:05:50Z</news:publication_date>
+      <news:title>Kairi’s Next Move Just Got More Interesting — And the Timing Has Wrestling Fans Watching Closely</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/jacy-jayne-money-in-the-bank-first-ladder-match-wwe-news.html</loc>
     <news:news>
       <news:publication>
