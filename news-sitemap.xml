@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/nic-nemeth-career-after-wwe-tna-world-title-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T01:09:43Z</news:publication_date>
+      <news:title>Former WWE Star Nic Nemeth Is Building Something Bigger Than Fans Expected</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/cody-rhodes-wwe-future-career-plan-wwe-news.html</loc>
     <news:news>
       <news:publication>
