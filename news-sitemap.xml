@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/chad-gable-new-wwe-presentation-major-change-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T16:43:26Z</news:publication_date>
+      <news:title>Chad Gable Is Changing His WWE Image — And He Already Has a Bigger Vision in Mind</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/jim-ross-money-in-the-bank-favorite-wwe-world-title-picture-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T16:35:01Z</news:publication_date>
+      <news:title>Jim Ross’ Money in the Bank Prediction Could Shape WWE’s World Title Picture in a Big Way (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/major-wwe-rumors-wrestlemania-money-in-the-bank-wwe-news.html</loc>
     <news:news>
       <news:publication>
