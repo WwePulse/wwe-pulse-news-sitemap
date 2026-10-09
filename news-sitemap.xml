@@ -4,6 +4,42 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/money-in-the-bank-main-event-plan-changed-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T13:25:36Z</news:publication_date>
+      <news:title>WWE Made a Surprising Change to the Money in the Bank Main Event</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/shayna-baszler-major-move-after-wwe-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T13:15:01Z</news:publication_date>
+      <news:title>Shayna Baszler’s Next Wrestling Chapter Is About to Begin in a Big Way</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/travis-scott-wwe-plans-ended-booker-t-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T13:04:48Z</news:publication_date>
+      <news:title>Travis Scott’s WWE Future Fell Apart Fast — Now We Know What Was Happening Behind the Scenes</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/jeff-cannonball-wrestling-legacy-cody-rhodes-tribute-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -156,18 +192,6 @@
       </news:publication>
       <news:publication_date>2026-10-07T13:42:39Z</news:publication_date>
       <news:title>LA Knight Is Heading Into Money in the Bank With a Serious Roman Reigns Problem (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/joe-hendry-wwe-future-world-title-goal-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T13:19:33Z</news:publication_date>
-      <news:title>Joe Hendry Knows Exactly What He Must Fix Before Reaching WWE’s Top Level (WWE NEWS)</news:title>
     </news:news>
   </url>
 
