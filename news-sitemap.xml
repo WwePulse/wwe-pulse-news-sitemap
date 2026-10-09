@@ -147,28 +147,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/kevin-nash-modern-wrestling-main-event-problem-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T18:07:14Z</news:publication_date>
-      <news:title>Kevin Nash Just Explained What’s Starting to Push Him Away From WWE (WWE NEWS TODAY)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/necro-butcher-unexpected-wwe-legends-deal-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T17:57:27Z</news:publication_date>
-      <news:title>Necro Butcher Just Landed a WWE Deal Nobody Saw Coming (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
 </urlset>
