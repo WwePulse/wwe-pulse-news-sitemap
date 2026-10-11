@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/aj-styles-bullet-club-role-revealed-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T22:36:34Z</news:publication_date>
+      <news:title>AJ Styles Just Revealed Something Surprising About His Bullet Club Role</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/stephanie-vaquer-wwe-push-title-reign-future-wwe-news.html</loc>
     <news:news>
       <news:publication>
