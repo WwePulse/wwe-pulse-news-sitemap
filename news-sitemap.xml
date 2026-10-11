@@ -3,40 +3,4 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/money-in-the-bank-main-event-plan-changed-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T13:25:36Z</news:publication_date>
-      <news:title>WWE Made a Surprising Change to the Money in the Bank Main Event</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/shayna-baszler-major-move-after-wwe-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T13:15:01Z</news:publication_date>
-      <news:title>Shayna Baszler’s Next Wrestling Chapter Is About to Begin in a Big Way</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/travis-scott-wwe-plans-ended-booker-t-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T13:04:48Z</news:publication_date>
-      <news:title>Travis Scott’s WWE Future Fell Apart Fast — Now We Know What Was Happening Behind the Scenes</news:title>
-    </news:news>
-  </url>
-
 </urlset>
