@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/la-knight-triple-h-money-in-the-bank-future-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:37:37Z</news:publication_date>
+      <news:title>Triple H’s Latest Comments About LA Knight Are Raising Big Questions After Money in the Bank (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/penta-money-in-the-bank-breakthrough-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:27:59Z</news:publication_date>
+      <news:title>WWE Money in the Bank 2026 Just Opened a Huge Door for Penta (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/liv-morgan-money-in-the-bank-title-shakeup-wwe-news.html</loc>
     <news:news>
       <news:publication>
