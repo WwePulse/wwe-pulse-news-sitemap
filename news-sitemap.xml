@@ -3,4 +3,40 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/liv-morgan-money-in-the-bank-title-shakeup-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:05:12Z</news:publication_date>
+      <news:title>- Liv Morgan Just Had One of Her Biggest Nights in WWE — And the Finish Was Pure Chaos (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-money-in-the-bank-2026-results-recap-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T13:48:56Z</news:publication_date>
+      <news:title>WWE Money in the Bank 2026 Delivered Big Winners, Major Changes and One Huge Surprise (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/roman-reigns-wwe-schedule-change-tko-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T13:37:02Z</news:publication_date>
+      <news:title>Roman Reigns Is Becoming Far More Active in WWE — And TKO May Explain Why (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
 </urlset>
