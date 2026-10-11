@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/stephanie-vaquer-wwe-push-title-reign-future-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T16:22:49Z</news:publication_date>
+      <news:title>Stephanie Vaquer’s WWE Future Suddenly Looks Very Different After Money in the Bank (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/vince-mcmahon-rio-de-janeiro-intercontinental-title-story-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T15:48:05Z</news:publication_date>
+      <news:title>Vince McMahon Had a Very Unexpected Reason for WWE’s Rio de Janeiro Tournament Story (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/la-knight-triple-h-money-in-the-bank-future-wwe-news.html</loc>
     <news:news>
       <news:publication>
