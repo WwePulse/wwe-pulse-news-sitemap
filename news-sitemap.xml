@@ -4,6 +4,54 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/oba-femi-money-in-the-bank-booking-bully-ray-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:24:15Z</news:publication_date>
+      <news:title>Oba Femi’s Money in the Bank Booking Just Sparked a Big Debate — And Bully Ray Thinks WWE Went Too Far (WWE NEWS NOW)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/myles-borne-nxt-title-opportunity-halloween-havoc-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:17:39Z</news:publication_date>
+      <news:title>One Match Could Completely Change Myles Borne’s NXT Future Before Halloween Havoc (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/penta-roman-reigns-wwe-push-changed-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:09:51Z</news:publication_date>
+      <news:title>WWE’s Plans for Penta Reportedly Changed Fast After One Huge Night With Roman Reigns (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/carmelo-hayes-shocking-raw-move-wwe-future-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:01:46Z</news:publication_date>
+      <news:title>Something Huge Just Happened Between Carmelo Hayes and 946 on Raw — And WWE Fans Have (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/liv-morgan-wwe-history-record-chase-2026-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -60,54 +108,6 @@
       </news:publication>
       <news:publication_date>2026-10-11T14:37:37Z</news:publication_date>
       <news:title>Triple H’s Latest Comments About LA Knight Are Raising Big Questions After Money in the Bank (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/penta-money-in-the-bank-breakthrough-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:27:59Z</news:publication_date>
-      <news:title>WWE Money in the Bank 2026 Just Opened a Huge Door for Penta (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/liv-morgan-money-in-the-bank-title-shakeup-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:05:12Z</news:publication_date>
-      <news:title>- Liv Morgan Just Had One of Her Biggest Nights in WWE — And the Finish Was Pure Chaos (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-money-in-the-bank-2026-results-recap-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T13:48:56Z</news:publication_date>
-      <news:title>WWE Money in the Bank 2026 Delivered Big Winners, Major Changes and One Huge Surprise (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/roman-reigns-wwe-schedule-change-tko-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T13:37:02Z</news:publication_date>
-      <news:title>Roman Reigns Is Becoming Far More Active in WWE — And TKO May Explain Why (WWE NEWS)</news:title>
     </news:news>
   </url>
 
