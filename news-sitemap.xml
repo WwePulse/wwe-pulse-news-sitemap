@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/paul-heyman-oba-femi-raw-rejection-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T15:38:36Z</news:publication_date>
+      <news:title>Paul Heyman Tried to Get Closer to Oba Femi on Raw — What Happened Next Changed the Entire Tone (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-crown-jewel-2026-first-matches-riyadh-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -84,30 +96,6 @@
       </news:publication>
       <news:publication_date>2026-10-11T22:36:34Z</news:publication_date>
       <news:title>AJ Styles Just Revealed Something Surprising About His Bullet Club Role</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/stephanie-vaquer-wwe-push-title-reign-future-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T16:22:49Z</news:publication_date>
-      <news:title>Stephanie Vaquer’s WWE Future Suddenly Looks Very Different After Money in the Bank (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/vince-mcmahon-rio-de-janeiro-intercontinental-title-story-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T15:48:05Z</news:publication_date>
-      <news:title>Vince McMahon Had a Very Unexpected Reason for WWE’s Rio de Janeiro Tournament Story (WWE NEWS)</news:title>
     </news:news>
   </url>
 
