@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-crown-jewel-2026-first-matches-riyadh-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:32:18Z</news:publication_date>
+      <news:title>WWE Crown Jewel 2026 Is Taking Shape Fast — And Two Major Matches Are Already Locked In (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/oba-femi-money-in-the-bank-booking-bully-ray-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -96,18 +108,6 @@
       </news:publication>
       <news:publication_date>2026-10-11T15:48:05Z</news:publication_date>
       <news:title>Vince McMahon Had a Very Unexpected Reason for WWE’s Rio de Janeiro Tournament Story (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/la-knight-triple-h-money-in-the-bank-future-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:37:37Z</news:publication_date>
-      <news:title>Triple H’s Latest Comments About LA Knight Are Raising Big Questions After Money in the Bank (WWE NEWS)</news:title>
     </news:news>
   </url>
 
