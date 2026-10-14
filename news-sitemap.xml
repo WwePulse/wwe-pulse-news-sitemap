@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-nxt-halloween-havoc-road-changes-recap-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T12:14:26Z</news:publication_date>
+      <news:title>WWE NXT Just Changed the Road to Halloween Havoc — And the Ending Raised Even More Questions</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/drew-mcintyre-hollywood-wwe-return-future-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -84,18 +96,6 @@
       </news:publication>
       <news:publication_date>2026-10-13T14:01:46Z</news:publication_date>
       <news:title>Something Huge Just Happened Between Carmelo Hayes and 946 on Raw — And WWE Fans Have (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/liv-morgan-wwe-history-record-chase-2026-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T12:06:54Z</news:publication_date>
-      <news:title>Liv Morgan Is Closing In on WWE History — And It Could Happen Before 2026 Ends (WWE NEWS TODAY)</news:title>
     </news:news>
   </url>
 
