@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-backstage-rumors-wrestlemania-plans-roster-future-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:40:48Z</news:publication_date>
+      <news:title>New WWE Rumors Point to Major WrestleMania Plans, Backstage Tension and a Rising Star Problem (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/bully-ray-la-knight-roman-reigns-rematch-wwe-news.html</loc>
     <news:news>
       <news:publication>
