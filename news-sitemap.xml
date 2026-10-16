@@ -4,6 +4,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/becky-lynch-seth-rollins-family-future-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T12:58:31Z</news:publication_date>
+      <news:title>Becky Lynch Just Made a Very Personal Admission About Her Future With Seth Rollins (WWE NEWS TODAY)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/zack-gowen-retirement-wrestling-career-final-message-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T12:51:36Z</news:publication_date>
+      <news:title>Zack Gowen Is Walking Away From Wrestling — But His Final Message Is About Much More Than Retirement (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/jacy-jayne-wwe-career-breakthrough-main-roster-wwe-news.html</loc>
     <news:news>
       <news:publication>
