@@ -4,6 +4,42 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/jacy-jayne-wwe-career-breakthrough-main-roster-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T12:44:43Z</news:publication_date>
+      <news:title>Jacy Jayne Opens Up About the Moment She Thought Her WWE Future Was Falling Apart (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/nick-khan-wwe-hollywood-strategy-green-light-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T12:37:15Z</news:publication_date>
+      <news:title>Nick Khan Reveals What WWE Really Looks At Before Letting Stars Leave for Hollywood (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/john-cena-wrestlemania-london-future-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T12:31:02Z</news:publication_date>
+      <news:title>John Cena Still Wants WWE to Make One Major WrestleMania Move — And the Timing Could Be Perfect (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-backstage-rumors-wrestlemania-plans-roster-future-wwe-news.html</loc>
     <news:news>
       <news:publication>
@@ -24,18 +60,6 @@
       </news:publication>
       <news:publication_date>2026-10-14T13:57:59Z</news:publication_date>
       <news:title>Bully Ray Has a New Idea for LA Knight After Money in the Bank — And It Could Put Him Back at the Top (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/wwe-nxt-halloween-havoc-road-changes-recap-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:14:26Z</news:publication_date>
-      <news:title>WWE NXT Just Changed the Road to Halloween Havoc — And the Ending Raised Even More Questions</news:title>
     </news:news>
   </url>
 
