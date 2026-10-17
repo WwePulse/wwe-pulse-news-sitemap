@@ -4,6 +4,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://wwepulsetoday.blogspot.com/2026/10/pac-cause-of-death-officially-confirmed-wwe-news.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>WWE Pulse Today</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:28:32Z</news:publication_date>
+      <news:title>PAC’s Death Has Finally Been Explained — And the Official Answer Brings Clarity to a Tragic Loss (WWE NEWS)</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://wwepulsetoday.blogspot.com/2026/10/becky-lynch-seth-rollins-family-future-wwe-news.html</loc>
     <news:news>
       <news:publication>
