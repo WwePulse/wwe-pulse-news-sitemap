@@ -3,40 +3,4 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/r-truth-damian-priest-smackdown-match-stopped-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T13:45:55Z</news:publication_date>
-      <news:title>R-Truth Injury Scare Forces SmackDown Match to Stop — And the Situation Remains Unclear (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/kelly-kelly-major-offer-career-decision-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T13:37:58Z</news:publication_date>
-      <news:title>Kelly Kelly Reveals the One Offer She Refused Early in Her WWE Career — And the Reason Was Personal (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://wwepulsetoday.blogspot.com/2026/10/pac-cause-of-death-officially-confirmed-wwe-news.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>WWE Pulse Today</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T13:28:32Z</news:publication_date>
-      <news:title>PAC’s Death Has Finally Been Explained — And the Official Answer Brings Clarity to a Tragic Loss (WWE NEWS)</news:title>
-    </news:news>
-  </url>
-
 </urlset>
